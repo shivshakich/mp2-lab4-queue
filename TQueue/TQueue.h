@@ -102,7 +102,7 @@ int TQueue<T>::IsEmpty() const {
 
 template <class T>
 int TQueue<T>::IsFull() const {
-	return count == size - 1;
+	return count == size;
 }
 
 template <class T>

@@ -168,7 +168,7 @@ std::ostream& operator<<(std::ostream& os, const TQueue<T>& q) {
 		else {
 			for (int i = q.start; i < q.size; ++i)
 				os << q.pMem[i] + ' ';
-			for (int i = 0; i <= finish; ++i)
+			for (int i = 0; i <= q.finish; ++i)
 				os << q.pMem[i] + ' ';
 			os << '\b';
 		}

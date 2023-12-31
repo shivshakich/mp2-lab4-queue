@@ -1,4 +1,4 @@
-#include "pch.h"
+#include "../gtest-sln/gtest.h"
 #include "../TQueue/TQueue.h"
 
 // конструктор преобразования (int преобразует в TQueue<T>)

@@ -21,5 +21,8 @@
     <ClCompile Include="..\test\test_tqueue.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\test\test_tqueueonlist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

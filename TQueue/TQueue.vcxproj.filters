@@ -18,5 +18,8 @@
     <ClInclude Include="TQueue.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="TQueueOnList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

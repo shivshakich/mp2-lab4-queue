@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="..\test\test_main.cpp" />
     <ClCompile Include="..\test\test_tqueue.cpp" />
+    <ClCompile Include="..\test\test_tqueueonlist.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\gtest-sln\gtest-sln.vcxproj">
